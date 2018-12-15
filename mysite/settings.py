@@ -25,7 +25,7 @@ SECRET_KEY = 'q)0w!6_j7nl+_)$(k409jyfcrfobz)qbp6g+&vhc=+^h+bw=4c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1' , 'pythonanywhere','bytesam.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1' , 'pythonanywhere','http://bytesam.pythonanywhere.com/']
 
 
 # Application definition
